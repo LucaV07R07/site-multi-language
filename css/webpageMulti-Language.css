@@ -2,6 +2,7 @@
 body {
     font-family: 'Didact Gothic', sans-serif;
     color:#333;
+    background-color: #eaedf5;
 }
 
 * {
@@ -16,7 +17,7 @@ a {
 
 /* Header */
 .header {
-    background-color: #252525;
+    background-color: #3b5998;
     padding: 20px 0;
 }
 
@@ -99,7 +100,7 @@ a.logo {
 
 .language ul li a {
     display: block;
-    color: #252525;
+    color: rgba(0, 0, 0, 0.671);
     padding: 5px 10px;
 }
 
@@ -151,7 +152,7 @@ a.es:before {
 
 /* Sobre */
 .about {
-    background-color: #252525;
+    background-color: #3b5998;
     padding: 64px 0;
 }
 
@@ -168,7 +169,7 @@ a.es:before {
 }
 
 .about-container ul li a {
-    color: #8b8b8b;
+    color: white;
 }
 
 .about-container ul li a:hover {
@@ -178,7 +179,7 @@ a.es:before {
 /* Footer */
 footer {
     padding: 32px;
-    background-color: #000;
+    background-color: #203561;
     text-align: center;
 }
 
